@@ -108,7 +108,7 @@ This project is a full-stack AI-powered application with authentication. It allo
 This project is licensed under the MIT License.
 
 ## Contact
-For questions or support, contact [punithsujatha@gmail.com].
+For questions or support, contact [askasturi16102003@gmail.com].
 
 ## Additional Details
 
